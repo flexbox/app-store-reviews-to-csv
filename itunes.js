@@ -4,7 +4,7 @@ const store = require('app-store-scraper');
 const STORE_ID = 1387885523; // find it on the url
 const APP_ID = 'network.celsius.wallet'; // find it with 1.
 
-const PAGE_NUMBER = 7; // max 10
+const PAGE_NUMBER = 10; // max 10
 const FILE_NAME = 'celsius';
 
 // 1. Get general informations
